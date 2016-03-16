@@ -46,4 +46,4 @@ Learning Objectives: By the end of this course, you will be able to:
 * L2 regularized logistic regression
 * Sparse logistic regression
 * Summarizing overfitting & regularization in logistic regression
-* rogramming Assignment
+* Programming Assignment
