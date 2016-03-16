@@ -3,3 +3,4 @@ Icon
 *.pdf
 *.csv
 .ipynb_checkpoints
+*.gl
